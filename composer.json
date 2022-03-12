@@ -1,6 +1,6 @@
 {
 	"name": "pessek/http-parser",
-	"version": "4.0",
+	"version": "4.2",
 	"description": "A tool for scraping URL resources",
 	"keywords": [
 		"elgg", "plugin", "scraper", "open graph", "twitter tags", "card"
